@@ -1,4 +1,4 @@
-name: Deploy Torchlight Engine
+name: Deploy
 on: [push, pull_request]
 jobs:
   vercel:
